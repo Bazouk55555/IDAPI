@@ -1,0 +1,51 @@
+Coursework trois Results by Adrien Boukobza aeb115
+
+2.The MDLSize of the network for Hepatitis C data set
+3972.430238
+
+3.The MDLAccuracy of the network for Hepatitis C data set
+-23672.1810271
+
+4.The MDLScore of the network for Hepatitis C data set
+27644.6112651
+
+5.The score of the best network with one arc removed
+a. best_score : 
+25916.7016818
+b. arc_removed : 
+<built-in function max>
+
+Coursework trois Results by Adrien Boukobza aeb115
+
+2.The MDLSize of the network for Hepatitis C data set
+3972.430238
+
+3.The MDLAccuracy of the network for Hepatitis C data set
+-23672.1810271
+
+4.The MDLScore of the network for Hepatitis C data set
+27644.6112651
+
+5.The score of the best network with one arc removed
+a. best_score : 
+25916.7016818
+b. arc_removed : 
+<built-in function max>
+
+Coursework trois Results by Adrien Boukobza aeb115
+
+2.The MDLSize of the network for Hepatitis C data set
+3972.430238
+
+3.The MDLAccuracy of the network for Hepatitis C data set
+-23672.1810271
+
+4.The MDLScore of the network for Hepatitis C data set
+27644.6112651
+
+5.The score of the best network with one arc removed
+a. best_score : 
+25916.7016818
+b. arc_removed : 
+[7, 1]
+
